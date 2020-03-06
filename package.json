@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "license": "Apache License 2.0",
   "private": true,
-  "homepage": "https://jimmylv.github.io/tdd-fizzbuzz",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
