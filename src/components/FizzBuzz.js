@@ -50,12 +50,11 @@ const ButtonPanel = styled.div`
   background-color: #858694;
 `
 
-const Button = styled.div`
+const Button = styled.button`
   color: ${props => (props.orange ? '#fff' : '#000')};
   background-color: ${props => (props.orange ? '#f5923e' : '#e0e0e0')};
-  flex-basis: calc(33.3% - 1px);
+  flex-basis: 33.333%;
   text-align: center;
   font-size: 1.5rem;
-  margin: 0 1px 1px 0;
   padding: 30px 0;
 `
